@@ -1,7 +1,11 @@
 ## Hey there, I'm Acel 👋
-### 🎓 CS Student | Aspiring Tech Consultant | Cybersecurity and AI Enthusiast
+### 🎓 CS Student at Florida Atlantic University | Aspiring IT Helpdesk
 
-📂 Here are all my projects! I'm currently working on buidling a portfolio.
+🌱 I’m currently learning ... Fullstack, Cybersecurity, and Intro to AI.
+🎮 One fun fact about me is that I built my own custom gaming PC and I love learning about hardware.
+💾 After graduation, I would love to work for a company as a junior desktop technician to gain experience.
+🖥️ Long-term, I am considering a career in IT or Cybersecurity as sysadmin or SOC analyst. Still thinking about it.
+📂 Here are all my projects! I'm currently working on building a portfolio.
 
 📫 Contact & Links
 <br>
