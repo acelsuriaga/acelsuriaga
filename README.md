@@ -1,11 +1,11 @@
 ## Hey there, I'm Acel — Welcome to my GitHub 👋
 ### 🎓 CS Student at Florida Atlantic University | Aspiring IT Technician
 
-- 🌱 I’m currently learning ... Fullstack, Cybersecurity, and Intro to AI.
+- 🌱 I’m currently learning ... Fullstack Development, Cybersecurity, and Intro to AI.
 - 🎧 Outside of my coursework, I am passionate about hardware and pivoting towards IT.
 - 🎮 One fun fact about me is that I built my own custom gaming PC and I like messing with computers.
 - 💾 After graduation, I would love to work in helpdesk or testing first to gain experience.
-- 🖥️ Long-term, I am considering a career in IT, QA, or Cybersecurity. Still thinking about it.
+- 🖥️ I’m currently exploring long-term career paths in IT, QA, and cybersecurity.
 <br>
 
 ### 📂 Here are all my projects! I'm currently working on building a portfolio.
