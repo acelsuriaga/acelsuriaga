@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Fullstack, Cybersecurity, and Intro to AI.
 - 🎧 Outside of my coursework, I am passionate about hardware and pivoting towards IT.
 - 🎮 One fun fact about me is that I built my own custom gaming PC and I like messing with computers.
-- 💾 After graduation, I would love to work for a company as a junior desktop technician or helpdesk to gain experience.
+- 💾 After graduation, I would love to work in helpdesk or testing first to gain experience.
 - 🖥️ Long-term, I am considering a career in IT, QA, or Cybersecurity. Still thinking about it.
 <br>
 
