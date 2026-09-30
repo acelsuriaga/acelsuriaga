@@ -1,9 +1,12 @@
-## Hi, I'm Acel. Welcome to my GitHub!
-### 🎓 CS Senior at Florida Atlantic University | Aspiring IT Technician
+## Hi, I'm Acel. I'm a CS Senior at Florida Atlantic University! 🌴🌺
+### 💖 Interested in computer hardware, IT, troubleshooting, networking, cybersecurity, and web development.
 
-- 🖥️ Interested in computer hardware, troubleshooting, networking, and cybersecurity.
-- 💭 After graduation, I would plan to work in helpdesk first to gain experience.
-- 🎮 One fun fact about me is that I built my own custom gaming PC. I run a dual boot of Windows 11 and Kubuntu.
+- 🌱 I love learning new things and finding ways to apply my creativity.
+- 🌻 After graduation, I plan to work in helpdesk first and build my technical experience from there.
+- ⭐ One fun fact about me is that I built my own custom gaming rig, before the AI boom skyrocketed the price of PC parts.
+- 🌷 I run a dual boot of Windows 11 and Kubuntu. Currently mastering the terminal commands. I love Debian but might try Arch one day.
+
+- 🎨 Outside of tech, I enjoy casual gaming, creative writing, and making things. I love painting and drawing.
 <br>
 
 ### 📂 Here are all my projects! I'm currently working on building my portfolio.
