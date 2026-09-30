@@ -1,8 +1,8 @@
-## Hi, I'm Acel. Welcome to my GitHub page!
-### 🎓 CS Student at Florida Atlantic University | Aspiring IT Technician
+## Hi, I'm Acel. Welcome to my GitHub!
+### 🎓 CS Senior at Florida Atlantic University | Aspiring IT Technician
 
-- 🖥️ Interested in computer hardware, IT, troubleshooting, networking, and cybersecurity.
-- 💭 After graduation, I would love to work in IT helpdesk first to gain experience.
+- 🖥️ Interested in computer hardware, troubleshooting, networking, and cybersecurity.
+- 💭 After graduation, I would plan to work in helpdesk first to gain experience.
 - 🎮 One fun fact about me is that I built my own custom gaming PC. I run a dual boot of Windows 11 and Kubuntu.
 <br>
 
