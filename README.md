@@ -16,7 +16,7 @@
 
 <br>
 
-### 📂 Here are all my projects! I'm currently working on building my portfolio.
+## 📂 Here are all my projects! I'm currently working on building my portfolio.
 
 <br>
 
