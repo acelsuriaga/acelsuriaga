@@ -4,6 +4,7 @@
   <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a3472c84-0096-4eef-b9a9-e86dbe243a7d" />
 </p>
 
+### 🍎 About Me:
 <ul>
   <li>🌱 I love learning new things and finding ways to apply my creativity. I'm going for IT, but I enjoy building websites for fun.</li>
   <li>🌻 After graduation, I plan to work in helpdesk first and build my technical experience from there.</li>
@@ -19,7 +20,7 @@
 
 <br>
 
-### 📫 Get in touch with me!
+### 📫 Let's get in touch!
 
 <a href="https://www.linkedin.com/in/acel-suriaga">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="30">
