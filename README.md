@@ -1,5 +1,5 @@
 ## Hi, I'm Acel. I'm a CS Senior at Florida Atlantic University! 🌴🌺
-### Interested in computer hardware, troubleshooting, networking, IT, and cybersecurity.
+### My Interests: IT, Computer Hardware, Troubleshooting, Networking, and Cybersecurity.
 
 - 🌱 I love learning new things and finding ways to apply my creativity. I'm going for IT but I enjoy building websites for fun.
 - 🌻 After graduation, I plan to work in helpdesk first and build my technical experience from there.
