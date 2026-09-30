@@ -1,7 +1,7 @@
 ## Hi, I'm Acel. I'm a CS Senior at Florida Atlantic University! 🌴🌺
-### 💖 Interested in computer hardware, IT, troubleshooting, networking, cybersecurity, and web development.
+### 💖 Interested in computer hardware, troubleshooting, networking, IT, and cybersecurity.
 
-- 🌱 I love learning new things and finding ways to apply my creativity.
+- 🌱 I love learning new things and finding ways to apply my creativity. I'm going for IT but I enjoy building websites for fun.
 - 🌻 After graduation, I plan to work in helpdesk first and build my technical experience from there.
 - ⭐ One fun fact about me is that I built my own custom gaming rig, before the AI boom skyrocketed the price of PC parts.
 - 🌷 I run a dual boot of Windows 11 and Kubuntu. Currently mastering the terminal commands. I love Debian but might try Arch one day.
