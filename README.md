@@ -22,10 +22,10 @@
 
 ## 📬 Let's get in touch!
 
-<a href="https://www.linkedin.com/in/acel-suriaga">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="30" style="display: block;">
+<a href="https://www.linkedin.com/in/acel-suriaga" style="text-decoration: none;">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="30">
 </a>
 
-<a href="mailto:asuriaga2021@fau.edu">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%2E80%93present%29.svg/1280px-Microsoft_Outlook_Icon_%282025%2E80%93present%29.svg.png" width="30" style="display: block;">
+<a href="mailto:asuriaga2021@fau.edu" style="text-decoration: none;">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/1280px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png" width="30">
 </a>
