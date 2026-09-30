@@ -1,5 +1,5 @@
 ## Hi, my name is Acel! I'm studying Computer Science at Florida Atlantic University! 🌴🌺
-### My Interests: IT, Computer Hardware, Troubleshooting, Networking, and Cybersecurity. 🌐
+### My Interests: IT, Computer Hardware, Troubleshooting, Networking, and Cybersecurity. 🌎
 <p align="center">
   <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a3472c84-0096-4eef-b9a9-e86dbe243a7d" />
 </p>
