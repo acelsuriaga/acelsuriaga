@@ -4,7 +4,7 @@
   <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a3472c84-0096-4eef-b9a9-e86dbe243a7d" />
 </p>
 
-### 🍎 About Me:
+## 🍎 About Me:
 <ul>
   <li>🌱 I love learning new things and finding ways to apply my creativity. I'm going for IT, but I enjoy building websites for fun.</li>
   <li>🌻 After graduation, I plan to work in helpdesk first and build my technical experience from there.</li>
