@@ -9,7 +9,7 @@
   <li>🌱 I love learning new things and finding ways to apply my creativity. I'm going for IT, but I enjoy building websites for fun.</li>
   <li>🌻 After graduation, I plan to work in helpdesk first and build my technical experience from there.</li>
   <li>⭐ A fun fact about me is that I built my own custom gaming rig, before the AI boom skyrocketed the price of PC parts. Yes, it's a fishtank build, but I love the look of the glass case showing all the components. Plus it has great airflow. <a href="https://pcpartpicker.com/user/splatoonlover/saved/#view=4cHkD3">Check out my build here ➜</a></li>
-  <li>🌷 I run a dual boot of Windows 11 and Kubuntu. Currently mastering the terminal commands. Love Debian but might try Arch one day, to fully rice out the build. I use Windows for general internet use and gaming, since my 300+ custom mod stack for Baldur's Gate 3 is already running on there, and the order is very delicate. (I organized them by hand). It would be too annoying and time-consuming to rebuild from scratch on Linux. I plan to use the Linux partition for cyber labs.</li>
+  <li>🌷 I run a dual boot of Windows 11 and Kubuntu. Currently mastering the terminal commands. Love Debian but might try Arch one day, to fully rice out the build. I use Windows for general internet use and gaming, since my 300+ custom mod stack for Baldur's Gate 3 is already running on there, and the mod load order is very delicate. (I organized them all by hand). It would be too annoying and time-consuming to rebuild from scratch on Linux. I plan to use the Linux partition for cyber labs.</li>
 
   <li>🎨 Outside of tech, I enjoy casual gaming, creative writing, and making things. I love painting and drawing.</li>
 </ul>
