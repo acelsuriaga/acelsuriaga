@@ -1,6 +1,9 @@
 ## Hi, I'm Acel. I'm a CS Senior at Florida Atlantic University! 🌴🌺
 ### My Interests: IT, Computer Hardware, Troubleshooting, Networking, and Cybersecurity.
-<img width="525" height="350" alt="image" src="https://github.com/user-attachments/assets/3d5a2d7b-ed16-4c76-ab34-4e17a1b1f8d8" />
+<p align center>
+<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/a164de69-461c-4e99-b8e6-481f0934d778" />
+</p>
+
 
 
 
